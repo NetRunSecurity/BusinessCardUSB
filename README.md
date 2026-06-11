@@ -10,6 +10,8 @@ It's a business card, a hacking tool, and a flex in one.
 📖 Full build write-up, schematics and pinout:
 **<https://wiki.netrunsecurity.com/electronics/sao/business-card/>**
 
+![View Soldered](./assets/view.png)
+
 ---
 
 ## What's in this repo
